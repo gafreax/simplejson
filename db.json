@@ -1,6 +1,6 @@
 {
-  "id": 123,
-  "type": "openanswer", 
-  "question": "Prova risposta aperta",
-  "answer": "Ciao"
- }
+   "id":123,
+   "type":"openanswer",
+   "question":"Prova risposta aperta",
+   "answer":"Ciao"
+}
